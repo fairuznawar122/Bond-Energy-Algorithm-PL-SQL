@@ -1,0 +1,11 @@
+drop table AUM;
+
+CREATE TABLE AUM(
+	QNO NUMBER, 
+	A1 NUMBER,
+	A2 NUMBER,
+	A3 NUMBER,
+	A4 NUMBER
+	); 
+
+COMMIT;
